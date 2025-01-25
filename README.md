@@ -1,6 +1,6 @@
 # Illumenate
 
-Illumenate is an Android application exploring how music-driven flashlight patterns may support digital wellbeing and cognitive states. As a cognitive neuropsychologist, you’re applying brain-computer interface (BCI) principles to study the potential of audiovisual entrainment.
+Illumenate is an Android application exploring how music-driven flashlight patterns may support digital wellbeing and cognitive states. As a cognitive neuropsychologist, I'am applying brain-computer interface (BCI) principles to study the potential of audiovisual entrainment.
 
 ## Vision & Purpose
 - Fuse neuroscience insights with user-friendly mobile tech
