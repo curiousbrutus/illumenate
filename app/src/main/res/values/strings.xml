@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Illumenate</string>
+    <string name="warning_title">Epilepsy Warning</string>
+    <string name="warning_message">This app uses flashing lights that may trigger seizures in people with photosensitive epilepsy. Use with caution.</string>
+    <string name="warning_accept">I Understand</string>
+    <string name="warning_decline">Cancel</string>
+    <string name="permission_camera_rationale">Camera permission is needed for flashlight control</string>
+    <string name="permission_storage_rationale">Storage permission is needed to access music files</string>
+</resources>
