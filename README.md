@@ -1,5 +1,13 @@
 # Illumenate
 
+
+
+*html tema giydirilebilir durumda olmalı (css animasyon ve javascript kotlin entegre durumda olması çok daha iyi olur)
+*Seçilen müzikler ve bpm ayarları favoriler bölümüne de eklenebilmeli
+*Işıkla müzik uyumlu olmalı
+* yapayz zeka destekli meditasyon sesli
+
+
 Illumenate is an Android application exploring how music-driven flashlight patterns may support digital wellbeing and cognitive states. As a cognitive neuropsychologist, I'am applying brain-computer interface (BCI) principles to study the potential of audiovisual entrainment.
 
 ## Vision & Purpose
